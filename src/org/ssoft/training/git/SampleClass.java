@@ -7,7 +7,7 @@ public class SampleClass {
 		int j = i--;
 		--i;
 		j++;
-		System.out.println(i==j);
+		System.out.println(i==0);
 		
 	}
 
