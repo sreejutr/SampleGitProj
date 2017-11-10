@@ -9,7 +9,7 @@ public class SampleClass {
 		j++;
 		System.out.println(i==0);
 		System.out.println("true");
-		
+		System.out.println("Hola !!");	
 	}
 
 }
